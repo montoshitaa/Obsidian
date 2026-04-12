@@ -3,3 +3,6 @@
 
 # Estado de ventanas (causa conflictos)
 .obsidian/workspace.json
+*.json
+*.json
+*.json
